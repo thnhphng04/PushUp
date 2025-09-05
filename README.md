@@ -39,3 +39,4 @@ This application should be run on a physical Android device to take advantage of
 
 Downloading, extraction, and placing the models into the *assets* folder is
 managed automatically by the **download.gradle** file.# PushUp
+# PushUp
